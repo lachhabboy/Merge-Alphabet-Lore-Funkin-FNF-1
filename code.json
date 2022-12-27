@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-2120403233975259/6616946480",
+        "InterstitialAdmob": "ca-app-pub-2120403233975259/5389842335",
+        "NativeAdmob": "ca-app-pub-2120403233975259/7271552600",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0A",
+		"maxInterstitial": "5fa0efbeea673f05A",
+		"maxNative": "bf83265395b54ba8A",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "5093591",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "Project Playtime",
+        "image": "https://gameplay.tips/wp-content/uploads/2022/12/project-playtime-3-678x381.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "This is an informative guide meant to teach players how to best utilize the monster Boxy Boo. He is commonly written off as underpowered, but with this guide, you’ll have the knowledge you need in order to turn him into an unstoppable menace and see that there’s more to this box than meets the eye.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Project Playtime – Ultimate Boxy Boo Monster Guide",
+        "image": "https://gameplay.tips/wp-content/uploads/2022/12/project-playtime-3-678x381.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "This is an informative guide meant to teach players how to best utilize the monster Boxy Boo. He is commonly written off as underpowered, but with this guide, you’ll have the knowledge you need in order to turn him into an unstoppable menace and see that there’s more to this box than meets the eye.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Project Playtime – Ultimate Boxy Boo Monster Guide",
+        "image": "https://gameplay.tips/wp-content/uploads/2022/12/project-playtime-3-678x381.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "This is an informative guide meant to teach players how to best utilize the monster Boxy Boo. He is commonly written off as underpowered, but with this guide, you’ll have the knowledge you need in order to turn him into an unstoppable menace and see that there’s more to this box than meets the eye.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Project Playtime – Ultimate Boxy Boo Monster Guide",
+        "image": "https://gameplay.tips/wp-content/uploads/2022/12/project-playtime-3-678x381.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "This is an informative guide meant to teach players how to best utilize the monster Boxy Boo. He is commonly written off as underpowered, but with this guide, you’ll have the knowledge you need in order to turn him into an unstoppable menace and see that there’s more to this box than meets the eye.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "Project Playtime – Ultimate Boxy Boo Monster Guide",
+        "image": "https://gameplay.tips/wp-content/uploads/2022/12/project-playtime-3-678x381.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "This is an informative guide meant to teach players how to best utilize the monster Boxy Boo. He is commonly written off as underpowered, but with this guide, you’ll have the knowledge you need in order to turn him into an unstoppable menace and see that there’s more to this box than meets the eye.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Project Playtime – Ultimate Boxy Boo Monster Guide",
+        "image": "https://gameplay.tips/wp-content/uploads/2022/12/project-playtime-3-678x381.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "This is an informative guide meant to teach players how to best utilize the monster Boxy Boo. He is commonly written off as underpowered, but with this guide, you’ll have the knowledge you need in order to turn him into an unstoppable menace and see that there’s more to this box than meets the eye.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Project Playtime – Ultimate Boxy Boo Monster Guide",
+        "image": "https://gameplay.tips/wp-content/uploads/2022/12/project-playtime-3-678x381.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "This is an informative guide meant to teach players how to best utilize the monster Boxy Boo. He is commonly written off as underpowered, but with this guide, you’ll have the knowledge you need in order to turn him into an unstoppable menace and see that there’s more to this box than meets the eye.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
